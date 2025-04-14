@@ -14,7 +14,6 @@ It’s perfect for documenting repositories, planning architecture, and kickstar
 
 - **One-Command Execution**: Generate folder structure instantly with `structure`.
 - **Custom Ignore List**: Skip files or folders you don’t want in the output.
-- **Virtual Environment Awareness**: Optionally include/exclude virtual environment folders.
 - **Markdown Format**: Outputs a clean, shareable structure for your README or documentation.
 - **Easy Setup**: No external libraries or complex dependencies.
 
